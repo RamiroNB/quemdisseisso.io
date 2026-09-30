@@ -1,0 +1,3036 @@
+{
+ "model": "Qwen3-4B-Instruct-2507",
+ "hearings": [
+  {
+   "id": 38,
+   "title": "Defesa de tributação especial para a cadeia do vinho no Brasil",
+   "date": "16/08/2023",
+   "headline": "Debatedores defendem tributação especial para a cadeia do vinho",
+   "cats": [
+    "Tributação",
+    "Agropecuária"
+   ],
+   "n": 9,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Carlos Gomes",
+    "Daniel Panizzi",
+    "Deborah Villas Bôas Dadalt",
+    "Alexandre Sampaio",
+    "Romero Rodrigues",
+    "Sergio Pereira Gaspar",
+    "Cinthia Fernanda Garcia Marques",
+    "Ricardo Morari",
+    "Amaro Neto"
+   ],
+   "fixed": 2,
+   "broken": 0,
+   "featured": 0
+  },
+  {
+   "id": 75,
+   "title": "Críticas à Medida Provisória 1116/22 que prevê o uso do FGTS para financiar creches",
+   "date": "07/07/2022",
+   "headline": "Debatedoras criticam medida provisória que prevê o uso do FGTS para financiar creches",
+   "cats": [
+    "Trabalho",
+    "Educação"
+   ],
+   "n": 15,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Bia Kicis",
+    "Rosângela Silva Rassy",
+    "Glenda Cruz Corrêa",
+    "Rodolfo Canônico",
+    "Erika Morreale Diniz",
+    "Juvândia Moreira Leite",
+    "Nicole Goulart",
+    "Adriane Reis de Araújo",
+    "Luciana Paula Conforti",
+    "Adriana Barufaldi Bertoldi",
+    "Fernanda Marsaro Dos Santos",
+    "Lydiane Machado e Silva",
+    "Vanessa Gruia",
+    "Fernanda De Menezes Barbosa",
+    "Cida Freire"
+   ],
+   "fixed": 2,
+   "broken": 0,
+   "featured": 1
+  },
+  {
+   "id": 141,
+   "title": "Perseguição a professores devido à radicalização política no Brasil",
+   "date": "31/10/2023",
+   "headline": "Professores denunciam ambiente de perseguições causado pelo clima de radicalização política no País",
+   "cats": [
+    "Educação",
+    "Direitos humanos"
+   ],
+   "n": 11,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Letícia Cesarino",
+    "Henrique Maffei",
+    "Professora Luciene Cavalcante",
+    "Salomão Barros Ximenes",
+    "Juliana Andozio",
+    "Fernando Penna",
+    "Renata Aquino",
+    "Talíria Petrone",
+    "Erasto Fortes Mendonça",
+    "Pâmella Passos",
+    "Marcelle Frossard"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": 2
+  },
+  {
+   "id": 81,
+   "title": "Fornecimento e preço de fertilizantes no Brasil em meio ao conflito entre Rússia e Ucrânia",
+   "date": "28/06/2022",
+   "headline": "Diplomacia mantém o fornecimento de fertilizantes para o Brasil, diz governo",
+   "cats": [
+    "Agropecuária",
+    "Economia"
+   ],
+   "n": 6,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Vinícius Benites",
+    "Luís Rangel",
+    "Reginaldo Minaré",
+    "Amalia Borsari",
+    "Bosco Costa",
+    "Ricardo Parahyba"
+   ],
+   "fixed": 1,
+   "broken": 1,
+   "featured": 3
+  },
+  {
+   "id": 99,
+   "title": "Impacto da guerra na Faixa de Gaza sobre crianças e mulheres",
+   "date": "25/04/2024",
+   "headline": "Crianças e mulheres são as maiores vítimas da guerra na Faixa de Gaza, ressaltam debatedores",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 19,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Intérprete",
+    "Ahmed Shehada",
+    "Berenice Bento",
+    "Padre João",
+    "Ualid Rabah",
+    "Carlos Antunes Santos",
+    "Glauber Braga",
+    "Breno Altman",
+    "Gilvan Da Federal",
+    "Soraya Misleh",
+    "Carima Atiyel",
+    "Abilio Brunini",
+    "Delegado Éder Mauro",
+    "Vinicius Limongi",
+    "Vinícius De Lara Ribas",
+    "Qais Marouf Kheiro Shqair",
+    "Ibrahim Mohamed Khalil Alzeben",
+    "Maynara Nafe",
+    "João Daniel"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": 4
+  },
+  {
+   "id": 103,
+   "title": "Esclarecimentos do Ministro da Justiça, Ricardo Lewandowski, sobre a fuga de presídio em Mossoró, vetos à saidinha de presos e decreto sobre clubes de atiradores",
+   "date": "16/04/2024",
+   "headline": "Lewandowski: fuga de presídio em Mossoró foi única e não se repetirá",
+   "cats": [
+    "Segurança"
+   ],
+   "n": 25,
+   "n_named": 6,
+   "n_summ": 5,
+   "people": [
+    "Ricardo Lewandowski",
+    "Alberto Fraga",
+    "Aluisio Mendes",
+    "Delegado Paulo Bilynskyj",
+    "General Girão",
+    "Pastor Henrique Vieira",
+    "Ismael Alexandrino",
+    "Gilvan Da Federal",
+    "Sanderson",
+    "Delegada Adriana Accorsi",
+    "Sargento Gonçalves",
+    "Alfredo Gaspar",
+    "Lindbergh Farias",
+    "Marcos Pollon",
+    "Merlong Solano",
+    "Zucco",
+    "Albuquerque",
+    "Coronel Meira",
+    "Pedro Aihara",
+    "Sargento Portugal",
+    "Rodolfo Nogueira",
+    "Delegado Fabio Costa",
+    "Capitão Alden",
+    "Delegado Caveira",
+    "Sargento Fahur"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": 5
+  },
+  {
+   "id": 148,
+   "title": "Cobrança pela retomada das autorizações para caça a javalis pelo Ibama",
+   "date": "19/10/2023",
+   "headline": "Deputados cobram do Ibama a volta das autorizações para caça a javalis",
+   "cats": [
+    "Meio ambiente",
+    "Agropecuária"
+   ],
+   "n": 8,
+   "n_named": 8,
+   "n_summ": 5,
+   "people": [
+    "Marcos Pollon",
+    "Rafael Salerno",
+    "Ismael Alexandrino",
+    "João Carlos De Petribu De Carli Filho",
+    "Guilherme Takeda",
+    "Rodrigo Bordeaux Mattos",
+    "Livia Martins",
+    "Humberto De Mattos Brandão"
+   ],
+   "fixed": 2,
+   "broken": 0,
+   "featured": 6
+  },
+  {
+   "id": 1,
+   "title": "Acusações de censura contra Alexandre de Moraes por exigir bloqueio de contas na rede social X",
+   "date": "16/04/2024",
+   "headline": "Jornalistas acusam Alexandre de Moraes de censura ao exigir bloqueio de contas da rede social X",
+   "cats": [
+    "Justiça",
+    "Tecnologia"
+   ],
+   "n": 17,
+   "n_named": 8,
+   "n_summ": 8,
+   "people": [
+    "Marcel van Hattem",
+    "David Ágape",
+    "Glenn Greenwald",
+    "Lucas Redecker",
+    "Eli Vieira Junior",
+    "Arlindo Chinaglia",
+    "Michael Shellenberger",
+    "General Girão",
+    "Bia Kicis",
+    "Marcelo Moraes",
+    "Adriana Ventura",
+    "Gilvan Da Federal",
+    "Afonso Hamm",
+    "Mario Frias",
+    "Filipe Barros",
+    "Luiz Philippe De Orleans E Bragança",
+    "Florentino Neto"
+   ],
+   "fixed": 2,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 201,
+   "title": "Cobrança pela individualização das condutas dos presos nos atos de 8 de janeiro e negação de tentativa de golpe",
+   "date": "03/08/2023",
+   "headline": "Familiares de presos em 8 de janeiro cobram individualização de condutas e negam tentativa de golpe",
+   "cats": [
+    "Justiça",
+    "Direitos humanos"
+   ],
+   "n": 47,
+   "n_named": 10,
+   "n_summ": 8,
+   "people": [
+    "Sanderson",
+    "Gabriela Ritter",
+    "Ezequiel Sousa Silveira",
+    "Cláudio Luis Caivano",
+    "Rafael De Assis Horn",
+    "Marcel van Hattem",
+    "Rodrigo Saraiva Marinho",
+    "Carolina Siebra",
+    "Bruno Jordano",
+    "Cabo Gilberto Silva",
+    "Bia Kicis",
+    "Eduardo Girão",
+    "Delegado Ramagem",
+    "Luan Almeida",
+    "Marcel van Hattem",
+    "Cláudio Avelar",
+    "Zé Trovão",
+    "Luiz Felipe Cunha",
+    "Nikolas Ferreira",
+    "Carlos Alberto Araujo De Souza",
+    "Giovane Veras",
+    "Agnes Gusmão",
+    "Adalex Góis",
+    "Sargento Fahur",
+    "Prof. Paulo Fernando",
+    "João Alberto Da Cunha Filho",
+    "José Medeiros",
+    "Adriana Ventura",
+    "Valquíria Durães",
+    "Rosângela Justino",
+    "Osmar Terra",
+    "Sargento Gonçalves",
+    "Roberto Pozzatti",
+    "José Medeiros",
+    "André Fernandes",
+    "Fred Linhares",
+    "Messias Donato",
+    "Eduardo Jeyson",
+    "Aline Duarte",
+    "Elaine Marina",
+    "Marcos Pollon",
+    "Hélio Junior",
+    "Samuel Fernandes Castro",
+    "Thalyta Stevanato",
+    "Viviane Freitas",
+    "Juliana Ciscouto",
+    "Rodrigo Valadares"
+   ],
+   "fixed": 2,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 5,
+   "title": "Cumprimento dos direitos das pessoas com autismo",
+   "date": "09/04/2024",
+   "headline": "Deputados, especialistas e familiares cobram cumprimento dos direitos das pessoas com autismo",
+   "cats": [
+    "Direitos humanos",
+    "Saúde"
+   ],
+   "n": 17,
+   "n_named": 8,
+   "n_summ": 7,
+   "people": [
+    "Weliton Prado",
+    "Zeiza Matildes Da Silva",
+    "Maria do Carmo Ribeiro",
+    "Andreia Siqueira",
+    "Amom Mandel",
+    "Oswaldo Freire",
+    "Erika Kokay",
+    "Francisco Alexandre Dourado Mapurunga",
+    "Roselene Alves",
+    "Flávia Luciana Guimarães Marçal Pantoja De Araújo",
+    "Luane Carvalho Costa",
+    "Roberta Moreira Pompeu",
+    "Fernando Cotta",
+    "Geraldo Resende",
+    "Daniela Reinehr",
+    "Viviani Guimarães",
+    "Aureo Ribeiro"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 11,
+   "title": "Alertas de seca severa e riscos de desertificação no Nordeste brasileiro",
+   "date": "14/12/2023",
+   "headline": "Especialistas reforçam alertas de seca severa e riscos de desertificação no Nordeste",
+   "cats": [
+    "Meio ambiente"
+   ],
+   "n": 9,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Magna Soelma Beserra De Moura",
+    "Johnny Amorim Liberato",
+    "Regina Alvalá",
+    "Paulo Pedro de Carvalho",
+    "Fernando Mineiro",
+    "Carlos Nobre",
+    "José Almir Cirilo",
+    "João Daniel",
+    "Crispiniano Neto"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 21,
+   "title": "Possível privatização do controle das loterias da Caixa Econômica Federal",
+   "date": "03/04/2024",
+   "headline": "Empregados da Caixa e lotéricos temem possível privatização do controle das loterias",
+   "cats": [
+    "Economia"
+   ],
+   "n": 14,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Tadeu Veneri",
+    "Erika Kokay",
+    "Juvandia Moreira",
+    "Ricardo Costa",
+    "Sergio Takemoto",
+    "Simone Vicentini",
+    "Fabiana Uehara Proscholdt",
+    "Maria De Jesus Demetrio Gaia",
+    "Rafaella Gomes Freitas De Oliveira",
+    "Emanoel Souza De Jesus",
+    "Marconi Apolo Dutra Araújo",
+    "Rita De Cássia Santos Lima",
+    "Leonardo Dos Santos Quadros",
+    "Othon Rodrigues Gonçalves"
+   ],
+   "fixed": 1,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 25,
+   "title": "Urgência para socorrer produtores do norte de Minas Gerais devido à seca sem precedentes",
+   "date": "20/12/2023",
+   "headline": "Debatedores apontam urgência para socorrer produtores do norte de Minas em seca sem precedentes",
+   "cats": [
+    "Agropecuária",
+    "Meio ambiente"
+   ],
+   "n": 26,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Zé Silva",
+    "Paulo Guedes",
+    "Wolnei Aparecido Wolff Barreiros",
+    "Astério Itabayana Neto",
+    "Ruibran Januário Dos Reis",
+    "Tales Domingos Vieira",
+    "Ricardo Demichelli",
+    "José Romildo Fonseca",
+    "Nilo Souto",
+    "Wesley Maciel",
+    "José Amadeu Nanayoski Tavares",
+    "Keny Soares",
+    "Valdeir Santos Coimbra",
+    "Edilson Nunes",
+    "Eldima Caldeira Benfica",
+    "Maria Gomes Motoso Rocha",
+    "Manoel Da Costa Lima",
+    "José Delvan Caires Da Silva",
+    "Bruno Veloso",
+    "Leonardo Monteiro",
+    "Reginaldo Lopes",
+    "Fabricio Cordeiro Dos Santos",
+    "Rufino Clovis Folador",
+    "Nely Aquino",
+    "Marina De Cássia Ferreira",
+    "José Maria Figueiredo Sobrinho"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 32,
+   "title": "Obstáculos para acolhimento de migrantes no Brasil",
+   "date": "31/10/2023",
+   "headline": "Debatedores criticam obstáculos para acolhimento de migrantes no Brasil",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 12,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Erika Hilton",
+    "Paulo Illes",
+    "Fabio Ando Filho",
+    "Matheus Alves Do Nascimento",
+    "Clarissa Teixeira",
+    "Erika Kokay",
+    "Fedo Bacourt",
+    "Letícia Carvalho",
+    "Marina Rongo Barbosa",
+    "Amanda Pilon Barsoumian",
+    "João Priolli De Araújo",
+    "Professora Luciene Cavalcante"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 37,
+   "title": "Solicitação de mais orçamento e estrutura para atletas com deficiência",
+   "date": "23/08/2023",
+   "headline": "Secretaria Nacional de Paradesporto pede mais orçamento e estrutura para os atletas com deficiência",
+   "cats": [
+    "Esporte",
+    "Direitos humanos"
+   ],
+   "n": 5,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Fábio de Araújo",
+    "Dr. Zacharias Calil",
+    "Nayara Karin Falcão De Oliveira",
+    "Luiz Lima",
+    "Augusto Puppio"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 65,
+   "title": "Discussão sobre a Resolução 296/21 do Conselho Superior da Justiça do Trabalho (CSJT) e a possível extinção de varas da Justiça do Trabalho",
+   "date": "01/09/2022",
+   "headline": "Juiz nega intenção de conselho de extinguir varas da Justiça do Trabalho",
+   "cats": [
+    "Trabalho",
+    "Justiça"
+   ],
+   "n": 9,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Paulo Teixeira",
+    "Valeir Ertle",
+    "Luciana Paula Confort",
+    "Marcelo Maciel Mancilha",
+    "Sandra Dias",
+    "Ivan Bagini",
+    "Professora Bebel",
+    "Luciano Athayde Chaves",
+    "Olga Vishnevsky Fortes"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 87,
+   "title": "Regulamentação do trabalho de motoristas de aplicativo",
+   "date": "25/04/2024",
+   "headline": "Relatório da regulamentação do trabalho de motoristas de aplicativo deve ser apresentado antes do recesso",
+   "cats": [
+    "Trabalho",
+    "Tecnologia"
+   ],
+   "n": 33,
+   "n_named": 8,
+   "n_summ": 8,
+   "people": [
+    "Luiz Marinho",
+    "Josenildo",
+    "Denis Moura",
+    "Carina Trindade",
+    "Leandro Da Cruz Medeiros",
+    "Rodrigo Porto",
+    "Evandro Henrique Roque Pereira",
+    "Adroaldo da Cunha",
+    "Rodrigo Marinho",
+    "André Porto",
+    "Priscila Dibi Schvarcz",
+    "Daniel Agrobom",
+    "Paulo Xavier",
+    "Ricardo Leite",
+    "Jeferson Rodrigues",
+    "Aderson Ribeiro Da Silva",
+    "Fernando Paes",
+    "Gleidson José Veras Do Nascimento",
+    "Delegado Caveira",
+    "Lucas Ramos",
+    "Erika Kokay",
+    "Augusto Coutinho",
+    "Coronel Assis",
+    "Marlon Luz",
+    "Lucyana Rios Monteiro Barbosa Souza",
+    "Alexandre Lindenmeyer",
+    "Vinicius Borges",
+    "Taciano Rocha",
+    "Eliseu Paulino Da Cunha",
+    "Fausto Augusto Junior",
+    "Ítalo Da Silva Araujo",
+    "Professor Leite",
+    "Jonathas Amorim"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 90,
+   "title": "Medidas para combater o assédio sexual de jovens atletas",
+   "date": "19/05/2022",
+   "headline": "Debatedores sugerem medidas para combater o assédio sexual de jovens atletas",
+   "cats": [
+    "Esporte",
+    "Direitos humanos"
+   ],
+   "n": 7,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Luísa Rodrigues",
+    "Rodrigo Acioli",
+    "Roberto Alves",
+    "Elizabeth de Souza",
+    "Luciana Neder",
+    "Alexandre Montrimas",
+    "Márcia Bueno"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 104,
+   "title": "Participação da Câmara na definição das regras de renovação das concessões das distribuidoras de energia elétrica",
+   "date": "16/04/2024",
+   "headline": "Deputados reafirmam interesse da Câmara em participar de definição das regras de renovação das concessões das distribuidoras",
+   "cats": [
+    "Energia"
+   ],
+   "n": 20,
+   "n_named": 5,
+   "n_summ": 4,
+   "people": [
+    "Hugo Leal",
+    "Sandoval De Araújo Feitosa Neto",
+    "Marco Antonio Vilela De Oliveira",
+    "Rodrigo Lopes Sauaia",
+    "Vinicius Fuzeira De Sá E Benevides",
+    "Rodrigo Ferreira",
+    "Ricardo Brandão",
+    "Renata Albuquerque Ribeiro",
+    "Victor Hugo Iocca",
+    "Frederico Teles",
+    "Carlos Evangelista",
+    "Alexandre Carlos Leite De Figueiredo",
+    "Hewerton Martins",
+    "Rosimeire Cecília Da Costa",
+    "Julio Lopes",
+    "Gilberto Nascimento",
+    "Heber Galarce",
+    "Beto Pereira",
+    "Danilo Forte",
+    "Lafayette de Andrada"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 115,
+   "title": "Colapso climático e medidas urgentes para enfrentá-lo",
+   "date": "05/03/2024",
+   "headline": "Colapso climático já começou e exige medidas urgentes, dizem cientistas na Câmara",
+   "cats": [
+    "Meio ambiente"
+   ],
+   "n": 14,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Luciana Gatti",
+    "Alexandre Araújo da Costa",
+    "Márcio Astrini",
+    "Saulo Rodrigues",
+    "Tarcísio Motta",
+    "Gustavo Luedemann",
+    "Leo Prates",
+    "Jorge Goetten",
+    "Bohn Gass",
+    "Gilson Daniel",
+    "Duarte Gonçalves Jr",
+    "Daiana Santos",
+    "Silvia Waiãpi",
+    "Chico Alencar"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 131,
+   "title": "Acordo para a duplicação da BR-116 na Bahia",
+   "date": "28/11/2023",
+   "headline": "Concessionária e governo anunciam em reunião na Câmara acordo para a duplicação da BR-116 na Bahia",
+   "cats": [
+    "Infraestrutura"
+   ],
+   "n": 9,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Jorge Solla",
+    "José Bartolomeu",
+    "Carlos Rafael Menin Simões",
+    "Anderson Bellas",
+    "Rogéria Santos",
+    "Maurício Drummond Uzeda",
+    "Aluisio Mendes",
+    "Rafael Bastos Marques",
+    "Lídice Da Mata"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 134,
+   "title": "Descarbonização do setor de combustíveis e transição energética sustentável",
+   "date": "13/11/2023",
+   "headline": "Em debate na Câmara, governo e setor produtivo apontam caminhos para transição energética sustentável",
+   "cats": [
+    "Energia",
+    "Meio ambiente"
+   ],
+   "n": 6,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Gonçalo Pereira",
+    "Alexandre Alonso",
+    "Pietro Mendes",
+    "Valéria Lima",
+    "Plínio Nastari",
+    "Leônidas Cristino"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 159,
+   "title": "Falta de recursos dificulta acesso a diagnóstico de câncer de mama no SUS",
+   "date": "03/10/2023",
+   "headline": "Falta de recursos dificulta acesso a diagnóstico de câncer de mama no SUS, reclamam especialistas",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 15,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Weliton Prado",
+    "Cíntia Cerqueira",
+    "Antônia Lúcia",
+    "Joana Jeker Dos Anjos",
+    "Alexandre Ben",
+    "Luciana Holtz De Camargo Barros",
+    "Suyanne Camille Caldeira Monteiro",
+    "Larissa Veríssimo",
+    "Verônica Savatin",
+    "Leonardo Moura Vilela",
+    "Eliane Nascimento",
+    "Silvia Cristina",
+    "Emanuelle Narciso Alvarez Valente",
+    "Flávia Morais",
+    "Geraldo Resende"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 164,
+   "title": "Ritmo de investimentos em saneamento básico e a meta de universalização até 2033",
+   "date": "21/09/2023",
+   "headline": "Ritmo de investimentos em saneamento básico ainda é insuficiente para universalização até 2033, alerta economista",
+   "cats": [
+    "Infraestrutura",
+    "Saúde"
+   ],
+   "n": 8,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Max Lemos",
+    "Marcelo Trindade",
+    "Filipe De Mello Sampaio Cunha",
+    "Percy Soares Neto",
+    "Jamaci Avelino",
+    "Felipe Rene Cardoso",
+    "Fábio Giori Smarçaro",
+    "Percy Soares Neto"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 178,
+   "title": "Planejamento marinho para reduzir impacto dos parques de energia eólica em alto-mar",
+   "date": "05/09/2023",
+   "headline": "Ibama defende planejamento marinho para reduzir impacto dos parques de energia eólica em alto-mar",
+   "cats": [
+    "Energia",
+    "Meio ambiente"
+   ],
+   "n": 20,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Talíria Petrone",
+    "Adryane Gorayeb",
+    "Breno Bispo",
+    "Ana Paula Prates",
+    "Carine Santos Silva",
+    "Renato Roseno",
+    "Edmilson Comparini Maturana",
+    "Francisco Ivan",
+    "Raimundo Esmeraldino Silva Siri",
+    "João Batista",
+    "Luiz Couto",
+    "Ormezita Barbosa",
+    "José Alberto",
+    "Romária Holanda",
+    "João Nascimento",
+    "Prof. Paulo Fernando",
+    "Viviane Machado Alves",
+    "Keliane Castro De Oliveira",
+    "Mariana Souza",
+    "Raul Zoche"
+   ],
+   "fixed": 1,
+   "broken": 2,
+   "featured": null
+  },
+  {
+   "id": 183,
+   "title": "Veto do Ibama à licença para Petrobras perfurar na Foz do Amazonas e outras questões ambientais",
+   "date": "30/08/2023",
+   "headline": "Marina Silva: veto do Ibama à licença para Petrobras perfurar na Foz do Amazonas é técnico",
+   "cats": [
+    "Meio ambiente",
+    "Energia"
+   ],
+   "n": 28,
+   "n_named": 14,
+   "n_summ": 6,
+   "people": [
+    "Marina Silva",
+    "Rodrigo Antonio De Agostinho Mendonça",
+    "Ricardo Salles",
+    "João Paulo Capobianco",
+    "Julio Lopes",
+    "Joaquim Passarinho",
+    "Túlio Gadêlha",
+    "Lafayette de Andrada",
+    "Leo Prates",
+    "Evair Vieira De Melo",
+    "Sidney Leite",
+    "Gabriel Nunes",
+    "Max Lemos",
+    "Hélio Leite",
+    "Benes Leocádio",
+    "Coronel Chrisóstomo",
+    "Padre João",
+    "Júnior Ferrari",
+    "Pedro Campos",
+    "Zé Haroldo Cathedral",
+    "Augusto Puppio",
+    "Fausto Santos Jr",
+    "Duda Salabert",
+    "Célia Xakriabá",
+    "Odair Cunha",
+    "Welter",
+    "Nilto Tatto",
+    "Bandeira De Mello"
+   ],
+   "fixed": 1,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 192,
+   "title": "Redução da vida útil de celulares e obsolescência programada",
+   "date": "16/08/2023",
+   "headline": "Entidades de defesa do consumidor e representante da indústria divergem sobre redução da vida útil de celulares",
+   "cats": [
+    "Tecnologia"
+   ],
+   "n": 6,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Humberto Barbato",
+    "Márcio Marinho",
+    "Igor Rodrigues Britto",
+    "Vitor Lippi",
+    "Marcelo de Souza do Nascimento",
+    "Davison Gonzaga da Silva"
+   ],
+   "fixed": 1,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 195,
+   "title": "Regulamentação dos mercados digitais no Brasil",
+   "date": "10/08/2023",
+   "headline": "Regulamentação dos mercados digitais no Brasil precisa ser feita com cautela, afirmam especialistas estrangeiros",
+   "cats": [
+    "Tecnologia",
+    "Economia"
+   ],
+   "n": 4,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Assimakis Komminos",
+    "Krisztian Katona",
+    "Jorge Padilla",
+    "Any Ortiz"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 197,
+   "title": "Revisão do Marco Legal da Inovação para facilitar sua operacionalização",
+   "date": "09/08/2023",
+   "headline": "Marco Legal da Inovação precisa ser revisto, afirmam especialistas",
+   "cats": [
+    "Tecnologia"
+   ],
+   "n": 12,
+   "n_named": 8,
+   "n_summ": 8,
+   "people": [
+    "Bruno Monteiro Portela",
+    "Leopoldo Muraro",
+    "Francisco Saboya",
+    "Daniel Nascimento",
+    "Francilene Procópio Garcia",
+    "Ricardo Galvão",
+    "Gianna Sagazio",
+    "Paulo Foina",
+    "Odir Dellagostin",
+    "Vitor Lippi",
+    "Luisa Canziani",
+    "Raimundo Santos"
+   ],
+   "fixed": 1,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 4,
+   "title": "Trabalho da Anatel com operadoras de telefonia para evitar pane em São Paulo após temporal e discussão sobre a modernização das leis de telecomunicações",
+   "date": "08/11/2023",
+   "headline": "Anatel trabalha com operadoras de telefonia para evitar pane em São Paulo",
+   "cats": [
+    "Infraestrutura",
+    "Tecnologia"
+   ],
+   "n": 2,
+   "n_named": 2,
+   "n_summ": 2,
+   "people": [
+    "Carlos Manuel Baigorri",
+    "Amaro Neto"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 9,
+   "title": "Debate sobre a exigência de certidão negativa de antecedentes criminais para cuidadores de pessoas idosas",
+   "date": "07/05/2024",
+   "headline": "Debatedores divergem na Câmara sobre a documentação exigida dos cuidadores de pessoas idosas",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 5,
+   "n_named": 5,
+   "n_summ": 3,
+   "people": [
+    "Monize Marques",
+    "Kenio Lima",
+    "Pinheirinho",
+    "Olinda Vicente Moreira",
+    "Patricia Moreira"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 12,
+   "title": "Violações de direitos de mulheres com deficiência",
+   "date": "19/12/2023",
+   "headline": "Mulheres com deficiência são as maiores vítimas de violações de direitos, apontam especialistas",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 13,
+   "n_named": 4,
+   "n_summ": 2,
+   "people": [
+    "Anna Paula Feminella",
+    "Iza Arruda",
+    "Monica Alves Silva",
+    "Arthur de Almeida Medeiros",
+    "Tereza Nelma",
+    "Patrícia Rodrigues Da Silva",
+    "Rosana Lago",
+    "Márcio Jerry",
+    "Marivaldo De Castro Pereira",
+    "Erika Kokay",
+    "Neusa Maria",
+    "Delegada Ione",
+    "Dayany Bittencourt"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 16,
+   "title": "Debate sobre denúncias envolvendo o custeio de viagem de Luciane Barbosa Farias e questões relacionadas aos direitos humanos",
+   "date": "05/12/2023",
+   "headline": "Ministro dos Direitos Humanos rebate denúncias da oposição",
+   "cats": [
+    "Segurança",
+    "Justiça"
+   ],
+   "n": 22,
+   "n_named": 8,
+   "n_summ": 8,
+   "people": [
+    "Sílvio Almeida",
+    "Bia Kicis",
+    "Eduardo Bolsonaro",
+    "Evair Vieira De Melo",
+    "Pastor Henrique Vieira",
+    "Nikolas Ferreira",
+    "Kim Kataguiri",
+    "Marcos Pollon",
+    "Delegado Paulo Bilynskyj",
+    "Pedro Aihara",
+    "Sanderson",
+    "Adriana Ventura",
+    "Rogério Correia",
+    "Jorge Solla",
+    "Mariana Carvalho",
+    "Helio Lopes",
+    "Tadeu Veneri",
+    "Messias Donato",
+    "Sargento Fahur",
+    "Luiz Lima",
+    "Chico Alencar",
+    "Prof. Paulo Fernando"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 17,
+   "title": "Debate sobre ativismo judicial na Câmara dos Deputados",
+   "date": "06/12/2023",
+   "headline": "Em seminário na Câmara, especialistas discordam sobre ativismo judicial",
+   "cats": [
+    "Justiça"
+   ],
+   "n": 12,
+   "n_named": 5,
+   "n_summ": 4,
+   "people": [
+    "Pedro Estevam",
+    "Rodrigo Saraiva",
+    "Eduardo Lycurgo",
+    "Sebastiâo Coelho",
+    "Rui Falcão",
+    "Sebastião Coelho",
+    "Lafayette de Andrada",
+    "Alencar Santana",
+    "Abilio Brunini",
+    "Chris Tonietto",
+    "José Medeiros",
+    "Cabo Gilberto Silva"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 19,
+   "title": "Criação de grupo de trabalho para estudar proposta de redução da velocidade média nas vias urbanas",
+   "date": "14/12/2023",
+   "headline": "Câmara pode criar grupo para estudar proposta que reduz velocidade média das vias urbanas",
+   "cats": [
+    "Infraestrutura"
+   ],
+   "n": 10,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Juninho do Pneu",
+    "Marcos Daniel Souza Dos Santos",
+    "Victor Pavarino",
+    "Letícia Cardoso",
+    "Bebeto",
+    "Carlos Henrique Carvalho",
+    "Adrualdo De Lima Catão",
+    "Bruno Rizzon",
+    "Jilmar Tatto",
+    "Rodrigo Ribeiro"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 20,
+   "title": "União de povos originários e tradicionais para evitar perda de direitos",
+   "date": "27/04/2023",
+   "headline": "Debatedores defendem união de povos originários e tradicionais para evitar perda de direitos",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 10,
+   "n_named": 1,
+   "n_summ": 1,
+   "people": [
+    "Célia Xakriabá",
+    "Lucia Alberta",
+    "Arlindo Alemão Gregório",
+    "Rosilene Cruz De Araújo",
+    "Gersem Baniwa",
+    "Alberto Terena",
+    "Chico Alencar",
+    "Tarcísio Motta",
+    "Juliana Cardoso",
+    "Braulina Baniwa"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 24,
+   "title": "Defesa do ensino de filosofia e sociologia na rede pública",
+   "date": "12/04/2024",
+   "headline": "Deputados, alunos e professores defendem ensino de filosofia e sociologia na rede pública",
+   "cats": [
+    "Educação"
+   ],
+   "n": 17,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Professora Luciene Cavalcante",
+    "Aldo Josias Dos Santos",
+    "Rafaela Reis de Oliveira",
+    "Christy Gomes Pato",
+    "Sueli Guadelupe De Lima Mendonça",
+    "Celso Giannazi",
+    "Carlos Giannazi",
+    "Luiza Martins",
+    "Marlei Fernandes De Carvalho",
+    "Neuza Peres",
+    "João Moura",
+    "Pedro Ergnaldo Gontijo",
+    "José Rogério De Oliveira",
+    "Agnaldo Cuoco Portugal",
+    "Marcelo Pinheiro Cigales",
+    "Rogério Alessandro De Mello Basali",
+    "Clara Machado Da Silva Alarcão"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 26,
+   "title": "Inclusão da economia do cuidado no cálculo do PIB",
+   "date": "14/12/2023",
+   "headline": "Debatedores defendem inclusão da \"economia do cuidado\" nas contas do PIB",
+   "cats": [
+    "Economia",
+    "Trabalho"
+   ],
+   "n": 8,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Luizianne Lins",
+    "Verônica Ferreira",
+    "Cosette Castro",
+    "Laís Abramo",
+    "Rosane Silva",
+    "Marcio Pochmann",
+    "Raquel Santana",
+    "Kátia Magalhães Arruda"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 34,
+   "title": "Impactos nocivos da alta exposição às redes sociais na saúde mental de jovens",
+   "date": "21/09/2023",
+   "headline": "Debatedores alertam para impactos nocivos das telas na saúde mental de jovens",
+   "cats": [
+    "Saúde",
+    "Tecnologia"
+   ],
+   "n": 11,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Bruno Ziller",
+    "Eduardo Velloso",
+    "Joana de Vilhena Novaes",
+    "Thais Hagge",
+    "Lilian Miranda",
+    "Maria Aparecida Cina da Silva",
+    "Rosângela Moro",
+    "Ana Paula Lima",
+    "Dr. Allan Garcês",
+    "Maria Rosas",
+    "Gerlen Diniz"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 36,
+   "title": "Regulação econômica dos serviços de praticagem no Brasil",
+   "date": "01/09/2023",
+   "headline": "Regulação econômica da praticagem no Brasil põe de lados opostos contratantes e profissionais",
+   "cats": [
+    "Economia",
+    "Infraestrutura"
+   ],
+   "n": 19,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Coronel Meira",
+    "Sergio Renato Berna Salgueirinho",
+    "Osvaldo Agripino De Castro Junior",
+    "Murillo Barbosa",
+    "Cláudio Loureiro",
+    "André Meloni Nassar",
+    "Ricardo Falcão",
+    "André De Seixas",
+    "Gustavo Luís Teixeira Das Chagas",
+    "José Gonçalves Moreira Neto",
+    "Bruno Fonseca",
+    "Luis Fernando Resano",
+    "Lilian Schaefer",
+    "Marco Ferraz",
+    "Eduardo Guterra",
+    "Prof. Paulo Fernando",
+    "Gustavo Henrique Alves Martins",
+    "Wagner Ferreira Cardoso",
+    "Bruna Roncel"
+   ],
+   "fixed": 0,
+   "broken": 2,
+   "featured": null
+  },
+  {
+   "id": 49,
+   "title": "Estudo da ANTT para estender a concessão da BR-101 em Santa Catarina para incluir a construção de túneis e conter deslizamentos",
+   "date": "07/05/2024",
+   "headline": "ANTT estuda estender em 15 anos concessão da BR 101 em SC para incluir obra e conter deslizamentos",
+   "cats": [
+    "Infraestrutura"
+   ],
+   "n": 8,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Daniela Reinehr",
+    "Rafael Vitale Rodrigues",
+    "Dagnor Schneider",
+    "Egídio Martorano",
+    "Daniel Gevaerd Muller",
+    "Ana Carolina Colombo",
+    "Carlos Humberto",
+    "José Rocha"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 51,
+   "title": "Financiamento permanente e integração dos programas de extensão universitária com políticas governamentais",
+   "date": "25/05/2023",
+   "headline": "Extensão universitária depende de financiamento permanente, defendem debatedores",
+   "cats": [
+    "Educação"
+   ],
+   "n": 18,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Lídice da Mata",
+    "Geísa Boaventura",
+    "Penildon Silva Filho",
+    "Guilherme Bertissolo",
+    "Hélder Eterno Da Silveira",
+    "Ricardo Marcelo Fonseca",
+    "Alexandre Fonseca",
+    "Francisco Do O' De Lima Júnior",
+    "Dandara",
+    "Zaqueu Henrique De Souza",
+    "Cauan Ferreira Araújo",
+    "Aldenize Ruela Xavier",
+    "Maria Santana Ferreira Dos Santos Milhomem",
+    "Eduardo Janicsek Jara",
+    "Moisés De Melo Santana",
+    "Esdra Marchezan Sales",
+    "Maria Anezilany Gomes Do Nascimento",
+    "Fernando Antonio Santos Coelho"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 53,
+   "title": "Participação de pessoas com deficiência nos projetos culturais para garantir inclusão",
+   "date": "17/05/2023",
+   "headline": "Debatedores defendem participação de pessoas com deficiência nos projetos culturais para garantir inclusão",
+   "cats": [
+    "Cultura",
+    "Direitos humanos"
+   ],
+   "n": 13,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Erika Kokay",
+    "Intérprete",
+    "Walleria Suri",
+    "Paula Wenke",
+    "Rafael Maximiniano",
+    "Patricia Almeida",
+    "Thiago Ribeiro",
+    "Márcio Jerry",
+    "Helena Werneck",
+    "Duarte",
+    "Amália Barros",
+    "Phellip Alexander Alcantara Ponce",
+    "Daniela Reinehr"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 56,
+   "title": "Aumento do sedentarismo como reflexo da pandemia de Covid-19 e a defesa da educação física como política de Saúde",
+   "date": "20/04/2023",
+   "headline": "Especialistas apontam aumento do sedentarismo como reflexo da pandemia de Covid-19",
+   "cats": [
+    "Saúde",
+    "Esporte"
+   ],
+   "n": 8,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Diego Garcia",
+    "Mônica Marques",
+    "Ailton Mendes",
+    "Nelson Leme",
+    "Gustavo Chaves Brandão",
+    "Dr",
+    "Valter Francisco Brigido",
+    "Tiago Camilo"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 57,
+   "title": "Discussão sobre a eficácia de guardas armados e medidas de segurança nas escolas para combater a violência",
+   "date": "20/04/2023",
+   "headline": "Guardas armados não resolvem problema de violência nas escolas, dizem especialistas",
+   "cats": [
+    "Segurança",
+    "Educação"
+   ],
+   "n": 13,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Daniel Cara",
+    "Catarina de Almeida",
+    "Josevanda Franco",
+    "Letícia Oliveira",
+    "Ariel De Castro Alves",
+    "Ana Paula Lima",
+    "Bruno Renato Nascimento Teixeira",
+    "Pastor Henrique Vieira",
+    "Yann Evanovick",
+    "Romano Costa",
+    "Isabel Seixas",
+    "Cybele Amado De Oliveira",
+    "Andreia Siqueira"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 61,
+   "title": "Defesa de uma política de retomada do setor industrial por entidades patronais",
+   "date": "30/11/2022",
+   "headline": "Entidades patronais defendem política de retomada do setor industrial",
+   "cats": [
+    "Economia"
+   ],
+   "n": 9,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Jorge Nascimento",
+    "Patrícia Gomes",
+    "Sidney Leite",
+    "Zé Neto",
+    "Alexis Fonteyne",
+    "Vitor Lippi",
+    "Marcelo Pimentel",
+    "Marcos Borges de Castro",
+    "Otto Alencar Filho"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 62,
+   "title": "Oferta gratuita de novos medicamentos para tratar amiloidose no SUS",
+   "date": "29/11/2022",
+   "headline": "Debatedores cobram oferta gratuita de novos medicamentos para tratar amiloidose no SUS",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 7,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Márcia Cruz",
+    "Rejane Dias",
+    "Priscila Louly",
+    "Fábio Almeida",
+    "Monica Aderaldo",
+    "Liana Ferronato",
+    "Maria Amélia De Oliveira Costa"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 63,
+   "title": "Cobrança de mais atenção do Estado com instituições de longa permanência para idosos",
+   "date": "16/11/2022",
+   "headline": "Entidades de defesa dos idosos cobram mais atenção do Estado com instituições de longa permanência",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 8,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Elder Ximenes Filho",
+    "Vejuse de Oliveira",
+    "Renato Gomes",
+    "Denis Bezerra",
+    "Karla Giacomin",
+    "Sandro Roberto Poleto",
+    "Izabel Maeda",
+    "Viviane Bayma"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 67,
+   "title": "Debate sobre mudanças na legislação para assegurar direitos dos trabalhadores portadores de lesão",
+   "date": "25/08/2022",
+   "headline": "Em audiência na Câmara, trabalhadores com lesão pedem maior tempo de estabilidade",
+   "cats": [
+    "Trabalho",
+    "Saúde"
+   ],
+   "n": 4,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Orlando Silva",
+    "Luís Fabiano Costa",
+    "Renata Rothje Ruiz",
+    "Antônio Benedito Gonçalves"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 70,
+   "title": "Críticas à instalação de termelétricas flutuantes na Baía de Sepetiba, RJ, sem estudos ambientais",
+   "date": "03/08/2022",
+   "headline": "Deputados e ambientalistas criticam instalação de termelétricas no RJ sem estudos ambientais",
+   "cats": [
+    "Energia",
+    "Meio ambiente"
+   ],
+   "n": 6,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Talíria Petrone",
+    "Juliano Bueno De Araújo",
+    "Helena Bergallo",
+    "Jaime Mitropoulos",
+    "Rodrigo Agostinho",
+    "Flavio Diniz Gaspar Lontro"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 73,
+   "title": "Debate sobre critérios mais acessíveis nos contratos de seguro de vida para idosos",
+   "date": "13/07/2022",
+   "headline": "Debatedores defendem seguro de vida mais flexível para idosos",
+   "cats": [
+    "Economia"
+   ],
+   "n": 11,
+   "n_named": 6,
+   "n_summ": 5,
+   "people": [
+    "Beatriz Herrans",
+    "Renê Patriota",
+    "Marcelo de Souza do Nascimento",
+    "Mauro de Oliveira Freitas",
+    "Paulo Nei",
+    "Carlos Augusto Santos Silva",
+    "João Pimenta",
+    "Vilson da Fetaemg",
+    "Luiz Leganani",
+    "Denis Bezerra",
+    "Vilson da Fetaemg"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 74,
+   "title": "Desafios para a implementação plena do Estatuto da Criança e do Adolescente (ECA)",
+   "date": "11/07/2022",
+   "headline": "Debatedores apontam desafios para implementação plena do ECA",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 13,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Ana Maria Villa Real Ferreira Ramos",
+    "Diego Alves",
+    "Celio Moura",
+    "Erika Kokay",
+    "Lucas Lopes",
+    "Renato Simões",
+    "Ana Paula Motta",
+    "Alexandre Bublitz",
+    "Veet Vivarta",
+    "Letícia Leobet",
+    "Maria do Rosário",
+    "Benedito Dos Santos",
+    "João Daniel"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 78,
+   "title": "Venda da Unidade de Industrialização do Xisto (SIX) no Paraná pela Petrobras",
+   "date": "29/06/2022",
+   "headline": "Venda da Unidade de Industrialização do Xisto no Paraná pela Petrobras é alvo de críticas",
+   "cats": [
+    "Energia",
+    "Economia"
+   ],
+   "n": 6,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Henrique Jager",
+    "Deyvid Souza Bacelar Da Silva",
+    "Mário Alberto Dal Zot",
+    "Enio Verri",
+    "Omar Picheth",
+    "Marco Brasil"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 79,
+   "title": "Falhas apontadas no projeto de código de defesa dos contribuintes (Projeto de Lei Complementar 17/22)",
+   "date": "28/06/2022",
+   "headline": "Entidades ligadas ao Fisco apontam falhas no projeto de código de defesa dos contribuintes",
+   "cats": [
+    "Tributação"
+   ],
+   "n": 21,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Pedro Paulo",
+    "Mauro Silva",
+    "Felipe Rigoni",
+    "Fernando Mombelli",
+    "Gilberto Alvarenga",
+    "Tiago Andrino",
+    "Alberto Macedo",
+    "Zabetta Macarini",
+    "Ariene D'Arc Diniz E Amaral",
+    "Edson Vismona",
+    "Tathiane Piscitelli",
+    "Francelino Valença Junior",
+    "Sérgio Ricardo Moreira De Castro",
+    "Carlos Antônio De Albuquerque Cardoso Filho",
+    "Adler Anaximandro De Cruz E Alves",
+    "Ricardo Luiz de Souza",
+    "Isac Moreno Santos",
+    "Cássio Vieira Pereira Dos Santos",
+    "Marcos Sérgio Ferreira",
+    "Tiago Conde Teixeira",
+    "Marcelo Ramos"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 80,
+   "title": "Regulamentação do lobby junto ao poder público",
+   "date": "28/06/2022",
+   "headline": "Relator apresentará nova versão para a regulamentação do lobby",
+   "cats": [
+    "Justiça"
+   ],
+   "n": 16,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Augusto Coutinho",
+    "Elielson Almeida",
+    "Luiz Alberto dos Santos",
+    "Lafayette de Andrada",
+    "Marcio Gonçalves",
+    "Carolina Venuto",
+    "Hélzio Mascarenhas",
+    "Andréa Gozetto",
+    "Wagner Parente",
+    "Mônica Messenberg",
+    "Maria Regina Reis",
+    "Valter Souza",
+    "Caio Magri",
+    "Nilson Aparecido Leitão",
+    "Adriana Ventura",
+    "Natasha Martins Do Valle Miranda"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 82,
+   "title": "Aprovação de projetos de lei que valorizam os mestres dos saberes e fazeres populares na cultura brasileira",
+   "date": "27/06/2022",
+   "headline": "Artistas da tradição oral cobram aprovação de projeto que valoriza cultura popular",
+   "cats": [
+    "Cultura"
+   ],
+   "n": 10,
+   "n_named": 2,
+   "n_summ": 1,
+   "people": [
+    "Erika Kokay",
+    "Francisco Paulo Jorge Pinto",
+    "Isaac Loureiro",
+    "Paulo Henrique Da Silva",
+    "Maria Elizabeth Santiago De Oliveira",
+    "Daraína Pregnolatto",
+    "Francisco Simões De Oliveira Neto",
+    "Alcides De Lima Tserewaptu",
+    "Joana Alves",
+    "Maria Elizabeth De Oliveira"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 84,
+   "title": "Ampliação do Serviço de Famílias Acolhedoras no Brasil",
+   "date": "13/06/2022",
+   "headline": "Serviço de famílias acolhedoras precisa ser ampliado no Brasil, defendem participantes de audiência",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 11,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Erika Kokay",
+    "Débora Vigevani",
+    "Rosana Viegas E Carvalho",
+    "Julia Salvagni",
+    "Ana Angélica Campelo",
+    "Edinalva Severo",
+    "Iberê Dias",
+    "Barbara Santiago",
+    "Armanda Lima",
+    "Ana Angélica Campelo",
+    "Veronica Lima Nogueira Da Silva"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 85,
+   "title": "Dificuldades na implantação de políticas públicas para a população LGBTQIA+",
+   "date": "29/06/2023",
+   "headline": "Pesquisa mostra dificuldades na implantação de políticas públicas para população LGBTQIA+",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 7,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Cláudio Nascimento",
+    "Renan Cadais",
+    "Erika Kokay",
+    "Toni Reis",
+    "Rogerio Barros Sganzerla",
+    "Pedro Henrique Godinho Faccioli",
+    "Acioli Neto"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 86,
+   "title": "Propostas de novas coberturas de seguros diante de catástrofes climáticas",
+   "date": "18/04/2024",
+   "headline": "Seguradoras propõem novas coberturas diante de catástrofes climáticas",
+   "cats": [
+    "Economia",
+    "Meio ambiente"
+   ],
+   "n": 12,
+   "n_named": 7,
+   "n_summ": 6,
+   "people": [
+    "Evair Vieira de Melo",
+    "Isadora Buchala",
+    "Gesner José De Oliveira Filho",
+    "Dyogo Oliveira",
+    "Guilherme Soria Bastos Filho",
+    "Frederico Knapp",
+    "João Rabelo",
+    "Isabel Blazquez Solano",
+    "Leo Prates",
+    "Tiago Vieira",
+    "Tarcísio Motta",
+    "Defensor Stélio Dener"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 88,
+   "title": "Impacto da Medida Provisória 1112/22 no financiamento de pesquisa e inovação no Brasil",
+   "date": "26/05/2022",
+   "headline": "Pesquisadores temem que aprovação de medida provisória reduza investimentos em pesquisa e inovação",
+   "cats": [
+    "Tecnologia",
+    "Educação"
+   ],
+   "n": 6,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Fernando Peregrino",
+    "Alvaro Toubes Prata",
+    "Fábio Guedes Gomes",
+    "Roberto Muniz",
+    "Angela Amin",
+    "Valder Steffen"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 91,
+   "title": "Reajustes nas tarifas de energia elétrica devido ao represamento durante a pandemia e a escassez hídrica",
+   "date": "12/05/2022",
+   "headline": "Tarifa represada na pandemia levou a reajustes de até 25% na conta de luz, dizem distribuidores em debate",
+   "cats": [
+    "Energia"
+   ],
+   "n": 16,
+   "n_named": 15,
+   "n_summ": 11,
+   "people": [
+    "Danilo Forte",
+    "Davi Antunes Lima",
+    "Márcio Caires",
+    "Marcos Madureira",
+    "Mário Menel",
+    "Anton Schwyter",
+    "Victor Iocca",
+    "Márcia Sandra Silva",
+    "Domingos Romeu Andreatta",
+    "Benes Leocádio",
+    "Eduardo da Fonte",
+    "Amilcar Silveira",
+    "Joaquim Rolim",
+    "Sávio Aguiar",
+    "Thiago Fujita",
+    "Domingos Neto"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 92,
+   "title": "Defesa do foco do Estatuto do Aprendiz em adolescentes de 14 a 18 anos",
+   "date": "12/04/2022",
+   "headline": "Especialistas defendem que Estatuto do Aprendiz seja focado em adolescentes",
+   "cats": [
+    "Trabalho",
+    "Educação"
+   ],
+   "n": 7,
+   "n_named": 6,
+   "n_summ": 5,
+   "people": [
+    "Anna Luiza Calixto Amaral",
+    "Antonio de Oliveira Lima",
+    "Maria Aparecida Gurgel",
+    "Luiz Antonio Colussi",
+    "Sebastião Estevam dos Santos",
+    "Felipe Rigoni",
+    "Angela Amin"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 97,
+   "title": "Críticas à política industrial brasileira no setor automotivo",
+   "date": "25/11/2021",
+   "headline": "Setor automotivo critica política industrial brasileira em debate na Câmara",
+   "cats": [
+    "Economia"
+   ],
+   "n": 7,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Aroaldo Oliveira da Silva",
+    "Luiz Carlos Moraes",
+    "Vicentinho",
+    "Ronaldo Lima dos Santos",
+    "Fausto Augusto Júnior",
+    "Erick Pereira Da Silva",
+    "Claudio Batista Da Silva Júnior"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 106,
+   "title": "Mudanças no seguro rural do Proagro para atender produtores de várias culturas",
+   "date": "11/04/2024",
+   "headline": "Governo sinaliza mudanças no seguro rural para atender produtores de várias culturas",
+   "cats": [
+    "Agropecuária"
+   ],
+   "n": 7,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Claudio Filgueiras",
+    "Célio Porto",
+    "Pezenti",
+    "Jelson Gesser",
+    "Heitor Schuch",
+    "Dirceu Schmidt",
+    "Bohn Gass"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 107,
+   "title": "Melhorias na infraestrutura de prevenção a desastres e calamidades naturais",
+   "date": "10/04/2024",
+   "headline": "Gestores da defesa civil reivindicam melhorias na infraestrutura de prevenção a desastres",
+   "cats": [
+    "Infraestrutura",
+    "Meio ambiente"
+   ],
+   "n": 11,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Gilson Daniel",
+    "Sosthenes Macêdo",
+    "Marcio Romano Corrêa Custodio",
+    "Fernando Raimundo Schunig",
+    "Carlos Frederico Otoni Garcia",
+    "Henguel Ricardo",
+    "Luciano Chaves Boeira",
+    "Pedro Henrique Correa Teixeira",
+    "Moisés Pereira De Melo",
+    "Leo Prates",
+    "Marlisson Soares Cunha"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 108,
+   "title": "Manutenção do Programa Emergencial de Retomada do Setor de Eventos (Perse)",
+   "date": "10/04/2024",
+   "headline": "Representantes do setor de turismo pedem manutenção de incentivos",
+   "cats": [
+    "Economia",
+    "Cultura"
+   ],
+   "n": 21,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Milton Zuanazzi",
+    "Bibo Nunes",
+    "Rodrigo Dias",
+    "Doreni Caramori Junior",
+    "Tiago Xavier",
+    "Fabio Godinho",
+    "Jorge Goetten",
+    "Magda Mofatto",
+    "Ana Carolina Dias Medeiros De Souza",
+    "Enid Câmara De Vasconcellos",
+    "João Alberto Ribeiro Pinheiro",
+    "Fabiano Camargo",
+    "Robinson Faria",
+    "Carolina Negri",
+    "Paulo Litro",
+    "Manoel Linhares",
+    "Thiago Borges",
+    "Alexandre Sampaio De Abreu",
+    "Daniel Trzeciak",
+    "Orlando Souza",
+    "Flávio Peruzzi"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 112,
+   "title": "Regulamentação do trabalho de motoristas de aplicativo",
+   "date": "21/03/2024",
+   "headline": "Regulamentação do trabalho de motoristas de aplicativo não tem consenso entre profissionais do setor",
+   "cats": [
+    "Trabalho",
+    "Tecnologia"
+   ],
+   "n": 25,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Glauber Braga",
+    "Carina Mineia dos Santos Trindade",
+    "Sâmia Bomfim",
+    "Daniel Agrobom",
+    "Denis Moura",
+    "Abel Santos",
+    "Renata Dutra",
+    "Tadeu Henrique Lopes",
+    "Simone Almeida",
+    "Jair Gomes De Almeida",
+    "Paulo Xavier",
+    "Rodrigo Carelli",
+    "Hítalo",
+    "Wellington",
+    "Gleidson Veras",
+    "Joelci Batista De Moraes",
+    "Aderson Ribeiro Da Silva",
+    "Eduardo Lima",
+    "Luiz Fernando Muller",
+    "Sérgio Guerra Correa",
+    "Jhonny Breno",
+    "Jonatas Amorim",
+    "Cladimir",
+    "Marlon Luz",
+    "Hildo Do Candango"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 114,
+   "title": "Estratégias para a erradicação da tuberculose no Brasil até 2030",
+   "date": "19/03/2024",
+   "headline": "Comissão planeja erradicação da tuberculose por meio de vacina, financiamento e programa-piloto",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 11,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Ismael Alexandrino",
+    "Daniel Canavese De Oliveira",
+    "Antonio Brito",
+    "Thiago Moraes",
+    "Márcia Viana",
+    "Draurio Neto",
+    "Ana Carolina Santana Moreira",
+    "Daiane De Oliveira Lopes Andrade",
+    "Márcia Leão",
+    "Carla Almeida",
+    "Maria Elias Sarmento Da Silveira"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 121,
+   "title": "Melhoria do atendimento a mulheres vítimas de violência doméstica pelo Judiciário",
+   "date": "07/12/2023",
+   "headline": "Judiciário precisa melhorar atendimento a mulheres vítimas de violência doméstica, dizem especialistas",
+   "cats": [
+    "Direitos humanos",
+    "Justiça"
+   ],
+   "n": 7,
+   "n_named": 4,
+   "n_summ": 3,
+   "people": [
+    "Marcio Luiz Coelho de Freitas",
+    "Ana Lúcia Lourenço",
+    "Delegada Ione",
+    "Aline Yamamoto",
+    "Eldom Stevem Barbosa dos Santos",
+    "Fernanda Fernandes",
+    "Evangelina Castilho Duarte"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 122,
+   "title": "Negociação de recursos adicionais para o seguro rural e apoio à cadeia de leite",
+   "date": "06/12/2023",
+   "headline": "Ministro da Agricultura diz que negocia com equipe econômica mais R$ 500 mi para seguro rural",
+   "cats": [
+    "Agropecuária"
+   ],
+   "n": 13,
+   "n_named": 5,
+   "n_summ": 3,
+   "people": [
+    "Carlos Fávaro",
+    "Carlos Goulart",
+    "Tião Medeiros",
+    "Afonso Hamm",
+    "Domingos Sávio",
+    "Bohn Gass",
+    "Zé Trovão",
+    "Welter",
+    "Vermelho",
+    "Paulo Magalhães",
+    "Alberto Fraga",
+    "Gabriel Mota",
+    "Marcos Pollon"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 123,
+   "title": "Aumento de orçamento para combater a tuberculose no Brasil",
+   "date": "05/12/2023",
+   "headline": "Deputado defende aumento de orçamento para combater a tuberculose no Brasil",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 12,
+   "n_named": 3,
+   "n_summ": 2,
+   "people": [
+    "Ethel Maciel",
+    "Marcia De Ávila Berni Leão",
+    "Antonio Brito",
+    "Miguel Angel Aragón López",
+    "Ana Paula Lima",
+    "Leonardo Vilela",
+    "Carla Patrícia Gomes Almeida",
+    "Draurio Barreira Cravo Neto",
+    "José Carlos Veloso",
+    "Pedro Reis Paixão Gonçalves",
+    "Geraldo Resende",
+    "Maria Ines Silveira"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 125,
+   "title": "Seleção e formação de diretores escolares no Brasil",
+   "date": "30/11/2023",
+   "headline": "Só 30% das secretarias de Educação exigem curso de gestão escolar para diretores, diz estudo",
+   "cats": [
+    "Educação"
+   ],
+   "n": 6,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Idilvan Alencar",
+    "Lara Simielli",
+    "Cássia Silva Santos Góes",
+    "Ana Cristina de Oliveira",
+    "Antonio Bresolin",
+    "Adriana Almeida"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 126,
+   "title": "Democratização do uso medicinal da cannabis e regulamentação de associações de produtores",
+   "date": "29/11/2023",
+   "headline": "Democratização do uso medicinal da cannabis depende de regulamentação de associações de produtores, dizem especialistas",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 16,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Chico Alencar",
+    "Angela Aboin",
+    "Eliane Lima Guerra Nunes",
+    "Rodrigo Cariri",
+    "Ubiracir Lima",
+    "Glauber Braga",
+    "Margarete Brito",
+    "Leandro Stelitano",
+    "Enor Machado De Morais",
+    "Luís Maurício Alves Ribeiro",
+    "Fernanda Peixoto",
+    "Thais Saraiva",
+    "Lucas",
+    "Pedro Uczai",
+    "Gyzelle Almada",
+    "Jailson Lima Da Silva"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 127,
+   "title": "Política nacional de cuidados para idosos",
+   "date": "29/11/2023",
+   "headline": "Debatedores cobram política nacional de cuidados para idosos",
+   "cats": [
+    "Direitos humanos",
+    "Saúde"
+   ],
+   "n": 14,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Vicente Faleiros",
+    "Erika Kokay",
+    "Luizianne Lins",
+    "Cosette Castro",
+    "Margô Gomes De Oliveira Karnikowski",
+    "Amanda Ribeiro Fernandes",
+    "Walquiria Cristina Batista",
+    "Luiz Couto",
+    "Maria Carolina Pereira Alves",
+    "Maria Elineide Rodrigues Da Cruz",
+    "Socorro França",
+    "Raphael Franco Castelo Branco Carvalho",
+    "Symone Bonfim",
+    "Prof. Paulo Fernando"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 130,
+   "title": "Medidas sugeridas por representantes do setor audiovisual brasileiro para enfrentar a concorrência do cinema e do streaming norte-americanos",
+   "date": "28/11/2023",
+   "headline": "Representantes do audiovisual sugerem a deputados medidas para estimular o setor",
+   "cats": [
+    "Cultura",
+    "Tecnologia"
+   ],
+   "n": 17,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Jandira Feghali",
+    "Alex Braga Muniz",
+    "Soraya Santos",
+    "Daniela Santana Fernandes",
+    "Lúcio Otoni",
+    "Leonardo Edde",
+    "Helder Quiroga",
+    "Márcio Tavares",
+    "André Sturm",
+    "Lídice da Mata",
+    "Felipe Lopes",
+    "Mersinho Lucena",
+    "Marcio Fraccaroli",
+    "Alexandre Messa Peixoto Da Silva",
+    "Iafa Britz",
+    "Simone Oliveira",
+    "Marcelo Queiroz"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 137,
+   "title": "Debate sobre a possibilidade de professores da rede pública terem dois cargos públicos em áreas diferentes",
+   "date": "08/11/2023",
+   "headline": "Debatedores discordam sobre possibilidade de professor ter dois cargos públicos em áreas diferentes",
+   "cats": [
+    "Educação"
+   ],
+   "n": 7,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Alessio Costa Lima",
+    "José Pinheiro de Queiroz Neto",
+    "Daniel Agrobom",
+    "Prof. Paulo Fernando",
+    "Heder Noronha",
+    "Fernando Mineiro",
+    "Prof. Reginaldo Veras"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 140,
+   "title": "Lições da pandemia e providências para futuras emergências sanitárias, com foco na vacinação e combate à desinformação",
+   "date": "07/11/2023",
+   "headline": "Diretor da Opas aponta lições da pandemia e providências para próximas emergências sanitárias",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 3,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Jarbas Barbosa",
+    "Jorge Solla",
+    "Iza Arruda"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 142,
+   "title": "Regulamentação do empréstimo consignado para servidores públicos",
+   "date": "30/10/2023",
+   "headline": "Governo afirma que regulamentação do consignado para servidores públicos será publicada até semana que vem",
+   "cats": [
+    "Economia"
+   ],
+   "n": 10,
+   "n_named": 4,
+   "n_summ": 5,
+   "people": [
+    "Prof. Paulo Fernando",
+    "Edison João Costa",
+    "Rafael Baldi",
+    "Pedro de Souza",
+    "Elias Bezerra Rosa Júnior",
+    "Vitor Hugo Ferreira",
+    "José Almiran Rodrigues",
+    "Cynthia Curado",
+    "Gerlane Alves Da Silva",
+    "Lusimar Arruda"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 144,
+   "title": "Fim do prazo para prefeituras enviarem propostas para o novo Programa de Aceleração do Crescimento (PAC)",
+   "date": "25/10/2023",
+   "headline": "Ministro alerta sobre o fim do prazo para que prefeituras enviem propostas para o novo PAC",
+   "cats": [
+    "Infraestrutura"
+   ],
+   "n": 23,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Jader Barbalho Filho",
+    "Cezinha de Madureira",
+    "Abilio Brunini",
+    "Pedro Aihara",
+    "Kiko Celeguim",
+    "Max Lemos",
+    "Helena Lima",
+    "Guilherme Boulos",
+    "Denise Pessôa",
+    "Bebeto",
+    "Márcio Correa",
+    "Alfredinho",
+    "Marcelo Lima",
+    "Marangoni",
+    "Ricardo Maia",
+    "Hélio Leite",
+    "Silas Câmara",
+    "Fernando Monteiro",
+    "Neto Carletto",
+    "Zé Trovão",
+    "Acácio Favacho",
+    "João Daniel",
+    "Joseildo Ramos"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 146,
+   "title": "Liberação da produção de Cannabis para fins medicinais",
+   "date": "25/10/2023",
+   "headline": "Especialistas defendem liberação da produção de Cannabis para fins medicinais",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 15,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Padre João",
+    "Christina Maria Grupioni",
+    "Andrea Donatti Galassi",
+    "Marta Machado",
+    "Osmar Terra",
+    "Edjane Rodrigues Silva",
+    "Ângela Gomes",
+    "Diego Ferreira",
+    "Saulo Lucio Dantas",
+    "Talíria Petrone",
+    "Kelly De Souza Gramacho",
+    "Ivens Drumond",
+    "Jair Barbosa Junior",
+    "Adriel Gael Jose Da Silva",
+    "Ivan Moraes"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 150,
+   "title": "Comemoração dos 150 anos de nascimento de Santos Dumont e suas contribuições para a aviação e outras áreas",
+   "date": "18/10/2023",
+   "headline": "Comissão de Ciência, Tecnologia e Inovação lembra os 150 anos de nascimento de Santos Dumont",
+   "cats": [
+    "Cultura"
+   ],
+   "n": 6,
+   "n_named": 6,
+   "n_summ": 1,
+   "people": [
+    "Luciano Valentim Rechiuti",
+    "Luisa Canziani",
+    "Henrique Lins De Barros",
+    "Jean Robert Batana Ferreira",
+    "Cláudio Gomide",
+    "Ricardo Jacob Magalhães"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 152,
+   "title": "Extinção da lei que regulamenta o seguro obrigatório DPVAT para vítimas de trânsito",
+   "date": "17/10/2023",
+   "headline": "Debatedores alertam sobre extinção da lei que regulamenta o seguro obrigatório para vítimas do trânsito",
+   "cats": [
+    "Economia"
+   ],
+   "n": 9,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Ênio Alberto Siloti",
+    "Carlos Roberto Alves de Queiroz",
+    "Lúcio Deodato Machado De Almeida",
+    "Márcio Jerry",
+    "Danielle Mendonça De Souza Dos Reis",
+    "Erika Kokay",
+    "Patrícia Menezes",
+    "Carlos Ademir Veras Pinheiro",
+    "Leo Prates"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 155,
+   "title": "Consolidação de políticas públicas para idosos no contexto dos 20 anos do Estatuto do Idoso",
+   "date": "05/10/2023",
+   "headline": "Nos 20 anos do Estatuto do Idoso, especialistas pedem consolidação de políticas públicas",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 9,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Aliel Machado",
+    "Alexandre da Silva",
+    "Wellington Emanuel Coimbra De Moura",
+    "Antonio Costa",
+    "Alexandre Kalache",
+    "Raphael Franco Castelo Branco Carvalho",
+    "Flávia Morais",
+    "Luiz Legñani",
+    "Margô Gomes De Oliveira Karnikowski"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 157,
+   "title": "Desoneração tributária para baratear custo de remédios para doenças raras",
+   "date": "04/10/2023",
+   "headline": "Especialistas sugerem desoneração tributária para baratear custo de remédios para doenças raras",
+   "cats": [
+    "Tributação",
+    "Saúde"
+   ],
+   "n": 10,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Daniela Cerqueira",
+    "Salmo Raskin",
+    "Renato Alencar Porto",
+    "Bruno Abreu",
+    "Valtenir Pereira",
+    "Paulão",
+    "Antoine Daher",
+    "Celso Russomanno",
+    "Renato Luiz Guerino Cunha",
+    "Gisela Simona"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 160,
+   "title": "Falta de recursos para a educação inclusiva",
+   "date": "02/10/2023",
+   "headline": "Especialistas apontam falta de recursos para a educação inclusiva",
+   "cats": [
+    "Educação"
+   ],
+   "n": 12,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Glauber Braga",
+    "Anna Paula Feminella",
+    "Luciana Viegas",
+    "Marinalva Silva Oliveira",
+    "Joaquim Emanuel Barbosa",
+    "Pedro Lucas Costa",
+    "Tatiana Sampaio Paixão",
+    "Décio Nascimento Guimarães",
+    "Cléo Bohn",
+    "Vinicius Ergang Streda",
+    "Eduardo Barison",
+    "Sabrina Veras"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 162,
+   "title": "Prevenção de transtornos mentais no ambiente de trabalho",
+   "date": "28/09/2023",
+   "headline": "Empresas devem agir para prevenir transtornos mentais no ambiente de trabalho, dizem especialistas",
+   "cats": [
+    "Saúde",
+    "Trabalho"
+   ],
+   "n": 9,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Mauro Salles",
+    "Ana Luiza Horcades",
+    "Cirlene Zimmermann",
+    "Fernanda Sousa Duarte",
+    "Viviane Forte",
+    "Pedro Tourinho De Siqueira",
+    "Carlos Veras",
+    "Anne Caroline da Silva",
+    "Airton Faleiro"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 166,
+   "title": "Uso da tecnologia blockchain no serviço público",
+   "date": "20/09/2023",
+   "headline": "Especialistas defendem uso de tecnologia blockchain no serviço público",
+   "cats": [
+    "Tecnologia"
+   ],
+   "n": 10,
+   "n_named": 4,
+   "n_summ": 1,
+   "people": [
+    "Caio Vianna",
+    "Aristides Andrade Cavalcante Neto",
+    "Jeferson Dias Barbosa",
+    "Felipe Leão",
+    "Eliana Cardoso Emediato De Azambuja",
+    "Julien Dutra",
+    "Diego Oliveira Farias",
+    "Caio Sanas",
+    "Chicão Bulhões",
+    "Raimundo Santos"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 168,
+   "title": "Melhoria das condições da pós-graduação no Brasil",
+   "date": "15/09/2023",
+   "headline": "Debatedores defendem melhoria das condições da pós-graduação no Brasil",
+   "cats": [
+    "Educação"
+   ],
+   "n": 9,
+   "n_named": 4,
+   "n_summ": 4,
+   "people": [
+    "Alice Portugal",
+    "Mercedes Bustamante",
+    "Vinícius Soares",
+    "Ricardo Galvão",
+    "Jackson Raymundo",
+    "Odilon Máximo",
+    "Ana Priscila Alves",
+    "Fernanda Sobral",
+    "Elisangela Lizardo"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 169,
+   "title": "Reconhecimento dos biomas Cerrado e Caatinga como patrimônios nacionais",
+   "date": "14/09/2023",
+   "headline": "Com apoio parcial do governo, movimentos sociais querem Cerrado e Caatinga como patrimônios nacionais",
+   "cats": [
+    "Meio ambiente"
+   ],
+   "n": 14,
+   "n_named": 6,
+   "n_summ": 6,
+   "people": [
+    "Célia Xakriabá",
+    "Samantha Ro'Otsitsina Juruna",
+    "Maria de Lurdes Nascimento",
+    "Alexandre Pires",
+    "Sílvio Porto",
+    "Paulo Pedro de Carvalho",
+    "Fernando Mineiro",
+    "Rosângela Azevedo Corrêa",
+    "Dandara",
+    "Lourdes Cardozo Laureano",
+    "Silvanete Benedito De Sousa Lermen",
+    "Aliene Barbosa E Silva",
+    "Erika Kokay",
+    "Túlio Gadêlha"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 171,
+   "title": "Esclarecimentos da ministra da Saúde, Nísia Trindade, sobre polêmicas e investimentos do novo PAC na Saúde",
+   "date": "13/09/2023",
+   "headline": "Nísia Trindade rebate polêmicas e detalha investimentos do novo PAC na Saúde",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 27,
+   "n_named": 8,
+   "n_summ": 8,
+   "people": [
+    "Nísia Trindade",
+    "Filipe Martins",
+    "Osmar Terra",
+    "Priscila Costa",
+    "Pastor Henrique Vieira",
+    "Ismael Alexandrino",
+    "Pedro Westphalen",
+    "Ana Paula Lima",
+    "Sâmia Bomfim",
+    "Dr. Frederico",
+    "Dr. Luiz Ovando",
+    "Ana Pimentel",
+    "Dorinaldo Malafaia",
+    "Helio Lopes",
+    "Abilio Brunini",
+    "Afonso Hamm",
+    "Jorge Solla",
+    "Márcio Correa",
+    "Weliton Prado",
+    "Silvia Cristina",
+    "Pastor Sargento Isidório",
+    "Lula da Fonte",
+    "Tadeu Veneri",
+    "Franciane Bayer",
+    "Bohn Gass",
+    "Jayme Martins De Oliveira Neto",
+    "Laura Carneiro"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 176,
+   "title": "Capacitismo como barreira para a educação inclusiva",
+   "date": "11/09/2023",
+   "headline": "Capacitismo é barreira para educação inclusiva, dizem especialistas",
+   "cats": [
+    "Educação",
+    "Direitos humanos"
+   ],
+   "n": 9,
+   "n_named": 4,
+   "n_summ": 3,
+   "people": [
+    "William De Jesus Silva",
+    "Professora Luciene Cavalcante",
+    "Renata Flores Tibyriçá",
+    "Sandra Ramalhoso",
+    "Décio Nascimento Guimarães",
+    "Naira Gaspar",
+    "Celso Giannazi",
+    "Carlos Giannazi",
+    "Weliton Prado"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 181,
+   "title": "Combate ao uso de cigarros eletrônicos no Brasil para manter a queda no índice de fumantes",
+   "date": "31/08/2023",
+   "headline": "Brasil precisa combater cigarro eletrônico para manter queda no índice de fumantes, dizem especialistas",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 7,
+   "n_named": 4,
+   "n_summ": 5,
+   "people": [
+    "Monica Andreis",
+    "Diogo Alves",
+    "Sandra Marques",
+    "Dr. Zacharias Calil",
+    "Margareth Dalcolmo",
+    "Gustavo San Martin",
+    "Maria José Giongo"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 184,
+   "title": "Discussão sobre mudanças na Lei do Bem para facilitar a colaboração entre universidades, empresas e governo e promover inovações",
+   "date": "30/08/2023",
+   "headline": "Participantes de audiência pública pedem votação de mudanças na Lei do Bem",
+   "cats": [
+    "Tecnologia",
+    "Economia"
+   ],
+   "n": 13,
+   "n_named": 5,
+   "n_summ": 4,
+   "people": [
+    "Vitor Lippi",
+    "Mauricio Dos Santos Neves",
+    "Ricardo Galvão",
+    "Gianna Sagazio",
+    "Guilherme Coutinho Calheiros",
+    "Lílian Amaral",
+    "Jorge Luis Nicolas Audy",
+    "Márcio De Araújo Pereira",
+    "Francilene Procópio Garcia",
+    "Celso Pansera",
+    "Jandira Feghali",
+    "Raimundo Santos",
+    "Luisa Canziani"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 185,
+   "title": "Desigualdade na cobertura do teste do pezinho nos estados brasileiros e desafios para a ampliação do exame conforme a Lei 14.154/21",
+   "date": "30/08/2023",
+   "headline": "Cobertura do teste do pezinho é muito desigual no estados brasileiros, aponta levantamento",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 10,
+   "n_named": 3,
+   "n_summ": 3,
+   "people": [
+    "Carlos Gouvêa",
+    "Helena Maria Dos Santos",
+    "Iza Arruda",
+    "Daniela Machado Mendes",
+    "Roseana Faneco Amorim",
+    "Suhellen Oliveira Da Silva",
+    "Amira Awada",
+    "Pollyana Dias",
+    "Bruna Rafaela Dornelas Monteiro",
+    "Fernanda Pessoa"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 189,
+   "title": "Mudanças no projeto de regulamentação dos mercados digitais (PL 2768/22)",
+   "date": "24/08/2023",
+   "headline": "Spotify e Mercado Livre pedem mudanças no projeto que regulamenta os mercados digitais",
+   "cats": [
+    "Tecnologia",
+    "Economia"
+   ],
+   "n": 5,
+   "n_named": 4,
+   "n_summ": 3,
+   "people": [
+    "Ricardo Medeiros",
+    "Adriana Laporta Cardinali Straube",
+    "Luizio Felipe Rocha",
+    "Any Ortiz",
+    "José Alexandre Novaes Bicalho"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 198,
+   "title": "Reconhecimento da liderança do Brasil na proteção a refugiados e desafios na integração socioeconômica dos refugiados no país",
+   "date": "09/08/2023",
+   "headline": "ONU reconhece liderança do Brasil na proteção a refugiados",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 10,
+   "n_named": 8,
+   "n_summ": 7,
+   "people": [
+    "Luizianne Lins",
+    "Lutiana Barbosa",
+    "Alex André Vargem",
+    "Marina Rongo",
+    "Oscar Sanchez",
+    "Bianca Abrahami",
+    "Fernanda Rosas",
+    "Tomás Alejandro Guzman",
+    "Luiz Guilherme Gonçalves",
+    "Lutiana Barbosa"
+   ],
+   "fixed": 0,
+   "broken": 1,
+   "featured": null
+  },
+  {
+   "id": 202,
+   "title": "Regulamentação da profissão de quiropraxista",
+   "date": "03/08/2023",
+   "headline": "Regulamentação da profissão de quiropraxista divide opiniões na Câmara",
+   "cats": [
+    "Saúde",
+    "Trabalho"
+   ],
+   "n": 6,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Alice Portugal",
+    "Daniel Facchini",
+    "Marcelo Massahud Junior",
+    "Estevam Rivello",
+    "Paulo Mayall",
+    "Evergisto Souto Maior"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 203,
+   "title": "Aumento da violência contra mulheres devido ao desmonte de políticas públicas e ascensão do ultraconservadorismo",
+   "date": "02/08/2023",
+   "headline": "Desmonte das políticas públicas levou a aumento da violência contra mulheres, afirmam debatedoras",
+   "cats": [
+    "Direitos humanos"
+   ],
+   "n": 9,
+   "n_named": 5,
+   "n_summ": 5,
+   "people": [
+    "Carmela Zigoni",
+    "Wilma Dos Reis",
+    "Letícia Godinho",
+    "Lêda Borges",
+    "Ana Pimentel",
+    "Luizianne Lins",
+    "Denise Mota Dau",
+    "Luciano Pereira Da Silva",
+    "Luiz Couto"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 204,
+   "title": "Melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+   "date": "13/07/2023",
+   "headline": "Especialistas defendem melhorias no acesso ao diagnóstico e tratamento da distonia no SUS",
+   "cats": [
+    "Saúde"
+   ],
+   "n": 8,
+   "n_named": 7,
+   "n_summ": 7,
+   "people": [
+    "Sara Casagrande",
+    "Patrícia Moller",
+    "Kedna de Souza Pereira",
+    "Maria Nilde Soares",
+    "Heitor Felipe Lima",
+    "Meire Serafim",
+    "Rosângela Moro",
+    "Amira Awada"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  },
+  {
+   "id": 205,
+   "title": "Recursos e melhorias na política de enfrentamento aos crimes nas fronteiras do Brasil",
+   "date": "11/07/2023",
+   "headline": "Deputados pedem mais recursos e melhorias na política de enfrentamento aos crimes nas fronteiras do País",
+   "cats": [
+    "Segurança"
+   ],
+   "n": 18,
+   "n_named": 10,
+   "n_summ": 10,
+   "people": [
+    "Sanderson",
+    "Coronel Ulysses",
+    "Eduardo Bettini",
+    "Luciano Bittencourt Barbosa",
+    "Alexandre Martins Angoti",
+    "Gustavo Correia",
+    "Eldison Prado",
+    "Cleudo Dos Santos Maciel",
+    "Carlos Augusto Bock",
+    "Coronel Assis",
+    "Everson Antônio Rozeni",
+    "Saulo De Tarso Sanson Silva",
+    "Felipe Vianna de Menezes",
+    "Marcos Pollon",
+    "Alfredo Gaspar",
+    "Pezenti",
+    "Sargento Gonçalves",
+    "Sérgio Ricardo Moreira De Castro"
+   ],
+   "fixed": 0,
+   "broken": 0,
+   "featured": null
+  }
+ ],
+ "categories": [
+  "Direitos humanos",
+  "Saúde",
+  "Economia",
+  "Tecnologia",
+  "Educação",
+  "Meio ambiente",
+  "Trabalho",
+  "Infraestrutura",
+  "Justiça",
+  "Energia",
+  "Agropecuária",
+  "Cultura",
+  "Segurança",
+  "Tributação",
+  "Esporte"
+ ],
+ "corpus": {
+  "omission": {
+   "all": 0.5451882845188285,
+   "deciles": [
+    0.8870292887029289,
+    0.8284518828451883,
+    0.7489539748953975,
+    0.6443514644351465,
+    0.5899581589958159,
+    0.5146443514644351,
+    0.4225941422594142,
+    0.3682008368200837,
+    0.29707112970711297,
+    0.1506276150627615
+   ],
+   "n": 2390,
+   "chair_raw": 0.2526690391459075,
+   "rest_raw": 0.5841631104788999,
+   "chair_matched": 0.4506513869214098,
+   "rest_matched": 0.5717918016443635,
+   "source": "paper_results 3.3 (lds_omission_relabel.py): chair OR 0.41 [0.30, 0.55]; other parliamentarians 0.85 [0.60, 1.20], p = 0.36; gender 0.99 [0.80, 1.22], p = 0.92"
+  },
+  "rag": {
+   "participants": 480,
+   "fixed": 34,
+   "broken": 18,
+   "with_unsupported_baseline": 0.09583333333333334,
+   "with_unsupported_rag": 0.0625,
+   "opus_fixed": 59,
+   "opus_broken": 46,
+   "p_preregistered": 0.037,
+   "source": "paper_results 2.15; the p-value is quoted"
+  },
+  "audit": {
+   "misattr_confirmed": "90 a 92%",
+   "title_models": "2 de 4",
+   "title_flips": "3 a 5%",
+   "source": "paper_results 3.1-3.2 (quoted)"
+  },
+  "tau": 0.977792352437973,
+  "line_rate": 0.35,
+  "model": "Qwen3-4B-Instruct-2507",
+  "wpm": 140,
+  "chars_per_word": 6.11
+ }
+}
